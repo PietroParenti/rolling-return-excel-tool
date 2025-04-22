@@ -1,2 +1,2 @@
-# rolling-return-excel-tool
-Excel tool to automatically compute rolling returns for different financial instruments based on historical data. The tool includes a dynamic feature that allows users to adjust the rolling window size, providing flexible and customizable analysis
+# Excel Tool for Rolling Return Analysis
+This Excel tool automatically calculates rolling returns for various financial instruments using historical data. Each worksheet corresponds to a different asset class. A gray cell labeled "Rolling Window" lets users adjust the window size for the rolling calculation, making the analysis flexible and customizable. The tool provides both descriptive statistics and a chart of the rolling returns for each asset class.
